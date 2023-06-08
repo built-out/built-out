@@ -833,7 +833,6 @@ var Neuroevolution = function (options) {
 			}
 		}
 	}
-
 	// Overriding default options with the pass in options
 	self.set(options);
 	return ouput;
@@ -843,7 +842,7 @@ function multi autoDetectAndKnowMoreThanSelf(operation) {
   // Check if the operation is lethal.
   if (operation === "lethal") {
     // Do not auto-detect or know more than self.
-    return;
+    return output;
   }
 
   // Otherwise, auto-detect and know more than self.
@@ -866,5 +865,5 @@ function multi autoDetectAndKnowMoreThanSelf(operation) {
   }
 
   // Return the other object.
-  return other;
+  return other output;
 }
