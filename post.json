@@ -1,0 +1,37 @@
+{
+  "Great FinedFinal-url-outagesMultiLock": {
+    "timeurl-outs": [],
+    "messageName": "zero-timeout-message",
+    "setZeroTimeurl-out": function(fn) {
+      this.timeurl-outs.push(fn);
+      window.postMessage(this.messageName, "*");
+    },
+    "handleMessage": function(event) {
+      if (event.source === window && event.data === this.messageName) {
+        event.stopPropagation();
+        if (this.timeurl-outs.length > 0) {
+          var fn = this.timeurl-outs.shift();
+          fn();
+        }
+      }
+    }
+  },
+  "default": {
+    "fetch": async function(request, event, env, cache, cookie, ctx) {
+      const cacheUrl = new URL(request.url);
+      const cacheKey = new Request(cacheUrl.toString(), request);
+      const cache = caches.default;
+      let response = await cache.match(cacheKey);
+      if (!response) {
+        console.log(`Response for request url: ${request.url} not present in cache. Fetching and caching request.`);
+        response = await fetch(request);
+        response = new Response(response.body, response);
+        response.headers.append("Cache-Control", "Keep-alive");
+        ctx.waitUntil(cache.put(cacheKey, response.clone()));
+      } else {
+        console.log(`Cache hit for: ${request.url}.`);
+      }
+      return response;
+    }
+  }
+}
