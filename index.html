@@ -1,1 +1,26 @@
-<!DOCTYPE html> <html> <head> <title> [emulated] </title> <link rel="stylesheet" href="style.css"> </head> <body> <div id="directory"> <ul> </ul> </div> <div id="upload"> <input type="file" name="file"> <button type="submit">Upload</button> </div> <script src="script.js"></script><script async src="caching.js"></script> <script async src="0.js"></script></body> </html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Upload File to GitHub Pages</title>
+</head>
+<body>
+<input type="file" id="fileUpload" />
+<button onclick="uploadFile()">Upload</button>
+<script>
+function uploadFile() {
+const file = document.getElementById("fileUpload").files[0];
+const xhr = new XMLHttpRequest();
+xhr.open("POST", "https://api.github.com/repos/<your-username>/<your-repo>/contents/<path-to-file>");
+xhr.setRequestHeader("Authorization", "Bearer <your-github-access-token>");
+xhr.onload = function() {
+if (xhr.status === 200) {
+console.log("File uploaded successfully!");
+} else {
+console.log("Error uploading file: " + xhr.status);
+}
+};
+xhr.send(file);
+}
+</script>
+</body>
+</html>
