@@ -11,7 +11,7 @@ function uploadFile() {
 const file = document.getElementById("fileUpload").files[0];
 const xhr = new XMLHttpRequest();
 xhr.open("POST", "https://api.github.com");
-xhr.setRequestHeader("Authorization", "Bearer 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 ");
+xhr.setRequestHeader("Authorization", "Bearer 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 ");
 xhr.onload = function() {
 if (xhr.status === 200) {
 console.log("File uploaded successfully!");
@@ -22,5 +22,14 @@ console.log("Error uploading file: " + xhr.status);
 xhr.send(file);
 }
 </script>
+    <script src="module" 
+function unzipFile(file) {
+  var zip = new JSZip(file);
+  for (var i = 0; i < zip.files.length; i++) {
+    var file = zip.files[i];
+    file.saveAs(file.name);
+  }
+};
+  ></script>
 </body>
 </html>
