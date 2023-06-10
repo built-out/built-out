@@ -10,7 +10,7 @@
 function uploadFile() {
 const file = document.getElementById("fileUpload").files[0];
 const xhr = new XMLHttpRequest();
-xhr.open("POST", "https://api.github.com/repos/built-out/built-out");
+xhr.open("POST", "https://api.github.com");
 xhr.setRequestHeader("Authorization", "Bearer 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 ");
 xhr.onload = function() {
 if (xhr.status === 200) {
