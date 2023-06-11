@@ -1,4 +1,8 @@
 # Aknowledge without first and foremost.
+- [ ] Write the data
+- [ ] Update the content
+- [ ] write the container
+
 - 👋 Hi, I'm @owner 
 - 🧞‍♂️ I'm mastering and recognize this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
