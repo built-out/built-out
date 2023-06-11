@@ -11,7 +11,7 @@
 
 ## Hi, I'm @owner
 
-I am a Muslim and I am interested in learning more about Islam. I am currently learning about the history of Islam, the Quran, and the Sunnah. I am also interested in learning about Islamic law and jurisprudence. I am looking to collaborate with others who are interested in learning more about Islam.
+I am a Muslim and I am interested in learning more about Islam. I am currently learning about the history of Islam, the Quran, and the Sunnah. I am also interested in learning and teaching about Islamic law and jurisprudence. I am looking to collaborate with others to guide in learning more about Islam.
 
 ## I'm interested in...
 
@@ -34,6 +34,7 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 * Learning more about Islam
 * Sharing knowledge about Islam
 * Promoting understanding of Islam
+* Teaching and Guide the others
 
 ## How to reach me...
 
@@ -44,8 +45,8 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 
 I have included some out of the box ideas for each section. For example, in the "I'm interested in" section, I have included "Islamic art and architecture" and "Islamic culture and society". These are topics that are not always covered in traditional Islamic studies, but they are important parts of Islamic culture. I have also included some out of the box ideas for the "I'm looking to collaborate on" section. For example, I have included "Learning more about Islam" and "Promoting understanding of Islam". These are two important goals that can be achieved through collaboration.
 
-I hope this helps!, else
-
+I hope this helps!,
+else
 Sure, here is the .md code text with out of limit expectations about Islam:
 
 
@@ -58,8 +59,9 @@ I am a Muslim who is passionate about learning and sharing knowledge about Islam
 * Islamic law and jurisprudence
 * Islamic spirituality and mysticism
 * Islamic social justice and activism
+* Teaching and guide the others
 
-I am currently learning about the Quran and Hadith, and I am also interested in learning more about Islamic history and culture. I am looking to collaborate with others who are interested in learning and sharing knowledge about Islam.
+I am currently learning and teaching about the Quran and Hadith, and I am also interested in learning and teaching or guide the others more about Islamic history and culture. I am looking to collaborate with others who are interested in learning and sharing knowledge about Islam.
 
 ## How to reach me
 
@@ -74,4 +76,4 @@ Here are some additional details about each of the topics that I am interested i
 * Islamic spirituality is concerned with the relationship between the individual and God. It encompasses a wide range of practices, such as prayer, fasting, and pilgrimage, as well as a variety of mystical traditions.
 * Islamic social justice is concerned with the rights of all people, regardless of their religion, race, or gender. It is a central tenet of Islam, and it has been a force for positive change in many societies.
 
-I am excited to learn more about these and other topics related to Islam, and I hope to collaborate with others who share my passion for learning.
+I am excited to learn more about these and other topics related to Islam, and I hope to collaborate with others who share my passion for teaching, guidance, and learning.
