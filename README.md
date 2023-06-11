@@ -1,7 +1,7 @@
 # Aknowledge without first and foremost.
-- [ ] Write the data
-- [ ] Update the content
-- [ ] write the container
+- [x] Write the data
+- [x] Update the content
+- [x] write the container
 
 - 👋 Hi, I'm @owner 
 - 🧞‍♂️ I'm mastering and recognize this more than itself
