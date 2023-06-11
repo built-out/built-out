@@ -5,8 +5,8 @@
 - 📫 How to reach me ... out of limits
 
 ---
-title: Islam
-author: @owner
+- title: Islam
+- author: @owner
 ---
 
 ## Hi, I'm @owner
