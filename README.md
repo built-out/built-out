@@ -7,8 +7,8 @@
 - 📫 How to reach me? ... I'm unreach and uncaught outline out of limits
 
 ---
-- title: Islam
-- author: @owner
+# title: Islam
+# Author:    owner <135386611+built-out@users.noreply.github.com
 ---
 
 ## Hi, I'm @owner
