@@ -2,8 +2,9 @@
 - [x] Write the data
 - [x] Update the content
 - [x] write the container
-```
-class GenerativeModel {
+- [x] write use code and enforce
+### Code
+```class GenerativeModel {
   constructor() {
     this.weights = [];
   }
