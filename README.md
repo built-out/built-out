@@ -1,4 +1,4 @@
-# Aknowledge without first and foremost
+# Aknowledge without first and foremost.
 - 👋 Hi, I'm @owner 
 - 🧞‍♂️ I'm mastering and recognize this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
