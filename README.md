@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @owner 
-- I'm mastering this more than itself
+- I'm mastering and recognize this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
 - 👀 I'm in ... ruling outline out of limits
 - 🌱 I'm currently learning ... ruling outline out of limits
