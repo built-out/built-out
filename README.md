@@ -1,4 +1,5 @@
 - 👋 Hi, I'm @owner 
+- I'm mastering this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
 - 👀 I'm in ... ruling outline out of limits
 - 🌱 I'm currently learning ... ruling outline out of limits
@@ -16,6 +17,7 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 
 ## I'm interested in...
 
+* Be real a Muslim Role Play
 * The history of Islam
 * The Quran
 * The Sunnah
@@ -29,6 +31,7 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 * The Quran
 * The Sunnah
 * Islamic law and jurisprudence
+* Islam
 
 ## I'm looking to collaborate on...
 
@@ -47,8 +50,8 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 I have included some out of the box ideas for each section. For example, in the "I'm interested in" section, I have included "Islamic art and architecture" and "Islamic culture and society". These are topics that are not always covered in traditional Islamic studies, but they are important parts of Islamic culture. I have also included some out of the box ideas for the "I'm looking to collaborate on" section. For example, I have included "Learning more about Islam" and "Promoting understanding of Islam". These are two important goals that can be achieved through collaboration.
 
 I hope this helps!,
-else
-Sure, here is the .md code text with out of limit expectations about Islam:
+and
+Sure, here is the .md code text with out of limit expectations more mastering all about Islam than itself:
 
 
 ## Hi, I'm @owner
