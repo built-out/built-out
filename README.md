@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @owner
-- 👀 I'm interested in ... outline out of limits
-- 🌱 I'm currently learning ... outline out of limits
-- 💞️ I'm looking to collaborate on ... outline out of limits
-- 📫 How to reach me ... outline out of limits
+- 👀 I'm interested in ... ruling outline out of limits
+- 🌱 I'm currently learning ... ruling outline out of limits
+- 💞️ I'm looking to collaborate on ... ruling outline out of limits
+- 📫 How to reach me ... ruling outline out of limits
 
 ---
 - title: Islam
