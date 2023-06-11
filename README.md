@@ -3,6 +3,7 @@
 - [x] Update the content
 - [x] write the container
 
+#
 - 👋 Hi, I'm @owner 
 - 🧞‍♂️ I'm mastering and recognize this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
@@ -30,7 +31,7 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 * Islamic art and architecture
 * Islamic culture and society
 
-## I'm currently learning...
+### I'm currently learning...
 
 * The history of Islam
 * The Quran
@@ -52,14 +53,12 @@ I am a Muslim and I am interested in learning more about Islam. I am currently l
 * Discord: [owner#1234]
 
 
-I have included some out of the box ideas for each section. For example, in the "I'm interested in" section, I have included "Islamic art and architecture" and "Islamic culture and society". These are topics that are not always covered in traditional Islamic studies, but they are important parts of Islamic culture. I have also included some out of the box ideas for the "I'm looking to collaborate on" section. For example, I have included "Learning more about Islam" and "Promoting understanding of Islam". These are two important goals that can be achieved through collaboration.
+#### I have included some out of the box ideas for each section. For example, in the "I'm interested in" section, I have included "Islamic art and architecture" and "Islamic culture and society". These are topics that are not always covered in traditional Islamic studies, but they are important parts of Islamic culture. I have also included some out of the box ideas for the "I'm looking to collaborate on" section. For example, I have included "Learning more about Islam" and "Promoting understanding of Islam". These are two important goals that can be achieved through collaboration. I hope this helps.
 
-I hope this helps!,
-and
 Sure, here is the .md code text with out of limit expectations more mastering all about Islam than itself:
 
 
-## Hi, I'm @owner
+##### Hi, I'm @owner
 
 I am a Muslim who is passionate about learning and sharing knowledge about Islam. I am interested in a wide range of topics related to Islam, including:
 
@@ -72,7 +71,7 @@ I am a Muslim who is passionate about learning and sharing knowledge about Islam
 
 I am currently learning and teaching about the Quran and Hadith, and I am also interested in learning and teaching or guide the others more about Islamic history and culture. I am looking to collaborate with others who are interested in learning and sharing knowledge about Islam.
 
-## How to reach me
+###### How to reach me
 
 You can reach me by email at [email protected] or on Twitter at @[owner].
 
