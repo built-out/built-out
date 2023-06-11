@@ -11,7 +11,7 @@
 
 ## Hi, I'm @owner
 
-I am a Muslim and I am interested in learning more about Islam. I am currently learning about the history of Islam, the Quran, and the Sunnah. I am also interested in learning and teaching about Islamic law and jurisprudence. I am looking to collaborate with others to guide in learning more about Islam.
+I am a Muslim and I am interested in learning more about Islam. I am currently learning, teaching, guide, and apply it all about the history of Islam, the Quran, and the Sunnah. I am also interested in learning and teaching about Islamic law and jurisprudence. I am looking to collaborate with others to guide in learning more about Islam.
 
 ## I'm interested in...
 
