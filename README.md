@@ -1,3 +1,4 @@
+# Aknowledge without first and foremost
 - 👋 Hi, I'm @owner 
 - I'm mastering and recognize this more than itself
 - ✍ I'm play role ruling sort of things, hiring  and rent
@@ -7,7 +8,7 @@
 - 📫 How to reach me? ... I'm unreach and uncaught outline out of limits
 
 ---
-# title: Islam
+# Title: Islam
 # Author:    owner <135386611+built-out@users.noreply.github.com
 ---
 
