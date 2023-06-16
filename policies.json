@@ -1,0 +1,27 @@
+{
+   "chromeMetadata": {
+      "OS": "Android 10; SM-A600G Build/QP1A.190711.020",
+      "application": "Google Chrome",
+      "revision": "c33807ff8ce8ab7be4d5823875de30ef0a6d775c-refs/branch-heads/5735@{#1247}",
+      "version": "114.0.5735.130 (Official Build) (32-bit)"
+   },
+   "policyValues": {
+      "chrome": {
+         "name": "Chrome Policies",
+         "policies": {
+         }
+      },
+      "extensions": {
+      },
+      "precedence": {
+         "name": "Policy Precedence",
+         "policies": {
+         },
+         "precedenceOrder": [ "Platform machine", "Cloud machine", "Platform user", "Cloud user" ]
+      }
+   },
+   "status": {
+      "user": {
+      }
+   }
+}
