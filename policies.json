@@ -116,7 +116,7 @@
   "universe_domain": "googleapis.com"  "mass_upload_universe_domain": "googleapis.com",
    "mass_upload_multi_domain": "google.com",
      "mass_upload_multiverse_domain": "microsoft.com",
-       "mass_upload_multi_domain": "windows.net
+       "mass_upload_multi_domain": "windows.net",
          }
       },
       "extensions": {
