@@ -132,7 +132,3 @@ move-result-object v2
 
 invoke-static {v2}, Landroid/webkit/WebSettings;->setUserAgentString(Ljava/lang/String;)V
 
-goto :goto_0
-
-:cond_0
-return-object
