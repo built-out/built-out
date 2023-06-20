@@ -1,5 +1,8 @@
+### BEGIN FILE ###
 User-agent: *
 Disallow: /
+Allow: saved last settings
+Disallow:
 Filters:
 {
 	"groups": [
